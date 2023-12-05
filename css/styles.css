@@ -33,11 +33,11 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
 }
 
 @media (min-width: 768px) {
   body {
+    min-height: 100vh;
     background-image: url(../images/pattern-background-desktop.svg);
   }
 }
@@ -59,7 +59,7 @@ img {
 
 /* - Order summary component card - */
 .card {
-  margin: 0 1.5rem;
+  margin: 1.5rem;
   overflow: hidden;
   border-radius: 2rem;
   background-color: #fff;
