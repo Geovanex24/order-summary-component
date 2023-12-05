@@ -21,7 +21,7 @@ This is a solution to the [Order Summary Card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-component-html-and-css-5bshrb5VNX)
 - Live Site URL: [https://order-summary-component-gfz.netlify.app/](https://order-summary-component-gfz.netlify.app/)
 
 ## My process
